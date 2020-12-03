@@ -4,7 +4,7 @@
 ### https://m.habr.com/ru/post/529590/
 ### https://github.com/EnjiRouz/Voice-Assistant-App
 
-###Создание и хостинг телеграм бота. От А до Я
+### Создание и хостинг телеграм бота. От А до Я
 ### https://m.habr.com/ru/post/350648/
 
 # Voice Assistant Python App for Windows, Linux & MacOS
